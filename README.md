@@ -15,7 +15,8 @@ The codes consist of following parts.
   3. Convolutional neural network analysis to estimate the value of the patented inventions
   4. Validation using the k-fold cross validation
   
-![image](./word2vec-cnn.png.)
+![image](./word2vec-cnn.png)
+
 
 
 Prerequisites
